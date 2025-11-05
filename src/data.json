@@ -1,0 +1,30 @@
+{
+    "name_title": "Cristian Menezes de Freitas",
+    "links": {
+        "github": "https://www.github.com/cristianmfr",
+        "linkedin": "https://www.linkedin.com/in/cristianmfr/",
+        "email": "cristianfreitas01@outlook.com",
+        "phone": "+55 (27) 9 9238-2557"
+    },
+    "summary": {
+        "title": "Resumo",
+        "body": "Bacharel em Ciências da Computação com mais de 4 anos de experiência no desenvolvimento de soluções web escaláveis e de alto impacto. Atuo em projetos que atendem milhares de usuários, combinando expertise técnica sólida com visão estratégica de produto."
+    },
+    "stacks": {
+        "title": "Competências Técnicas",
+        "body": "Experiência avançada em TypeScript/JavaScript (Node.js e React), C# (.NET), PHP e Python. Conhecimento adicional em Java, Ruby e Go, permitindo versatilidade na escolha das melhores tecnologias para cada contexto."
+    },
+    "experience": {
+        "title": "Experiência Profissional",
+        "jobs": [
+            {
+                "date": "dezembro 2025 - atual",
+                "title": "Desenvolvedor Fullstack",
+                "at": "StiloWeb Comunicação Digital",
+                "descriptions": {
+                    
+                }
+            }
+        ]
+    }
+}
