@@ -27,12 +27,6 @@ export const Curriculum = () => {
 			<div className="text-justify space-y-4">
 				<h4>Experiência Profissional</h4>
 				<hr />
-				<p>
-					Bacharel em Ciências da Computação com mais de 4 anos de experiência
-					no desenvolvimento de soluções web escaláveis e de alto impacto. Atuo
-					em projetos que atendem milhares de usuários, combinando expertise
-					técnica sólida com visão estratégica de produto.
-				</p>
 			</div>
 		</div>
 	)
